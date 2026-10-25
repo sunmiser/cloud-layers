@@ -1,0 +1,1 @@
+Cloud layers is a Jarmod I made for Alpha 1.1.2_01, Beta 1.7.3, And Minecraft: Oldschool Edition. This mod adds two additional cloud layers hence the title. The second layer is a 3D layer just like the first and the third is a 2D layer which is just the fast clouds. There is a settings txt file in each zip that will allow u to personalize the mod.
